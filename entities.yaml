@@ -1,0 +1,22 @@
+entities:
+
+  construction:
+
+    menu: >
+      (
+        [
+          { "location": Заказы,
+            "link": "/entities/construction/orders"
+          }
+        ]
+      )
+
+    presentations:
+
+      orders:
+        type: markdown
+        template: orders.md
+        source: >
+          (
+          
+          )

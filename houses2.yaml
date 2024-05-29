@@ -1,0 +1,8 @@
+houses:
+
+  order_123:
+    title: Заказ 123
+    project: wood_1_3
+    address: Малиновка, вл. 115
+    customization: 
+      - Крыльцо

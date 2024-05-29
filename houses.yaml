@@ -1,0 +1,39 @@
+houses:
+
+  order_123:
+    title: Заказ 123
+    project: wood_1_3
+    address: Малиновка, вл. 15
+    customization:
+      - Крыльцо
+
+  order_124:
+    title: Заказ 124
+    project: wood_1_3
+    address: Малиновка, вл. 23
+    customization: 
+      - Оконные Рамы
+
+  order_125:
+    title: Заказ 125
+    project: wood_2_5
+    address: СНТ Ромашка, вл. 4
+    customization:
+      - Сайдинг
+
+  order_126:
+    title: Заказ 126
+    project: brick_1_4
+    address: г.Тверь, ул.Строителей 32
+    customization:
+      - Крыльцо
+      - оконные рамы
+
+  order_127:
+    title: Заказ 127
+    project: wood_1_5
+    address: г.Таруса, ул.Ленина 25
+    customization: 
+      - white box
+
+
